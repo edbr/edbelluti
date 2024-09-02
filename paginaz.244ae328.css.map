@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;AAIA","sources":["src/scss/custom.css"],"sourcesContent":["imageProjects{\n    width: 120px;\n}\n\n.small-caps {\n    font-variant: small-caps;\n  }"],"names":[],"version":3,"file":"paginaz.244ae328.css.map","sourceRoot":"/__parcel_source_root/"}
