@@ -13400,4 +13400,16 @@ progress {
     height: 100px;
   }
 }
+
+header {
+  z-index: 1;
+  background-color: #0000;
+  position: relative;
+  box-shadow: 0 2px #0000001a;
+}
+
+header a {
+  color: #000;
+  transition: color .3s;
+}
 /*# sourceMappingURL=index.044e704e.css.map */
